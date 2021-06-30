@@ -10,16 +10,16 @@ struct SwiftAlgorithmsExampleApp: App {
                         RotateToStartAtView()
                     }
                     Section {
-                        CombinationsView()
-                    }
-                    Section {
-                        PermutationsView()
-                    }
-                    Section {
                         ChunksOfCountView()
                     }
                     Section {
                         AdjacentPairsView()
+                    }
+                    Section {
+                        CombinationsView()
+                    }
+                    Section {
+                        PermutationsView()
                     }
                 }
                 .navigationTitle("Swift Algorithms")
