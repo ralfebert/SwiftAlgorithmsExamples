@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9FF4632829B0A1F300497C0E /* chainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF4632729B0A1F300497C0E /* chainView.swift */; };
 		BF51F003268A4A12002B53F9 /* SwiftAlgorithmsExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF51F002268A4A12002B53F9 /* SwiftAlgorithmsExampleApp.swift */; };
 		BF51F005268A4A12002B53F9 /* ChunksOfCountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF51F004268A4A12002B53F9 /* ChunksOfCountView.swift */; };
 		BF51F007268A4A13002B53F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF51F006268A4A13002B53F9 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9FF4632729B0A1F300497C0E /* chainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chainView.swift; sourceTree = "<group>"; };
 		BF51EFFF268A4A12002B53F9 /* SwiftAlgorithmsExamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftAlgorithmsExamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF51F002268A4A12002B53F9 /* SwiftAlgorithmsExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftAlgorithmsExampleApp.swift; sourceTree = "<group>"; };
 		BF51F004268A4A12002B53F9 /* ChunksOfCountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChunksOfCountView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				BF51F002268A4A12002B53F9 /* SwiftAlgorithmsExampleApp.swift */,
 				BF51F004268A4A12002B53F9 /* ChunksOfCountView.swift */,
 				BFFE7667268C8FDA0074DCC9 /* CombinationsView.swift */,
+				9FF4632729B0A1F300497C0E /* chainView.swift */,
 				BFFE7669268C90A90074DCC9 /* PermutationsView.swift */,
 				BFFE766B268C910C0074DCC9 /* AdjacentPairsView.swift */,
 				BFFE766D268C93B00074DCC9 /* RotateToStartAtView.swift */,
@@ -161,6 +164,7 @@
 			files = (
 				BFFE766C268C910C0074DCC9 /* AdjacentPairsView.swift in Sources */,
 				BF51F005268A4A12002B53F9 /* ChunksOfCountView.swift in Sources */,
+				9FF4632829B0A1F300497C0E /* chainView.swift in Sources */,
 				BFFE7668268C8FDA0074DCC9 /* CombinationsView.swift in Sources */,
 				BFFE766A268C90A90074DCC9 /* PermutationsView.swift in Sources */,
 				BFFE766E268C93B00074DCC9 /* RotateToStartAtView.swift in Sources */,
