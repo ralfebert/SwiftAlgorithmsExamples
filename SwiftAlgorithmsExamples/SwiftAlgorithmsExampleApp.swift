@@ -21,6 +21,12 @@ struct SwiftAlgorithmsExampleApp: App {
                     Section {
                         PermutationsView()
                     }
+                    Section {
+                        UniqueView()
+                    }
+                    Section {
+                        RandomSampleView()
+                    }
                 }
                 .navigationTitle("Swift Algorithms")
             }
