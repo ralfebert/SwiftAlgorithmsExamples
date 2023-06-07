@@ -16,6 +16,8 @@
 		BFFE766A268C90A90074DCC9 /* PermutationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFE7669268C90A90074DCC9 /* PermutationsView.swift */; };
 		BFFE766C268C910C0074DCC9 /* AdjacentPairsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFE766B268C910C0074DCC9 /* AdjacentPairsView.swift */; };
 		BFFE766E268C93B00074DCC9 /* RotateToStartAtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFE766D268C93B00074DCC9 /* RotateToStartAtView.swift */; };
+		FEFC717E2A30947000DD1A2D /* UniqueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEFC717D2A30947000DD1A2D /* UniqueView.swift */; };
+		FEFC71802A30948500DD1A2D /* RandomSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEFC717F2A30948500DD1A2D /* RandomSampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		BFFE7669268C90A90074DCC9 /* PermutationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationsView.swift; sourceTree = "<group>"; };
 		BFFE766B268C910C0074DCC9 /* AdjacentPairsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjacentPairsView.swift; sourceTree = "<group>"; };
 		BFFE766D268C93B00074DCC9 /* RotateToStartAtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateToStartAtView.swift; sourceTree = "<group>"; };
+		FEFC717D2A30947000DD1A2D /* UniqueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueView.swift; sourceTree = "<group>"; };
+		FEFC717F2A30948500DD1A2D /* RandomSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomSampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 				BFFE766D268C93B00074DCC9 /* RotateToStartAtView.swift */,
 				BF51F006268A4A13002B53F9 /* Assets.xcassets */,
 				BF51F008268A4A13002B53F9 /* Preview Content */,
+				FEFC717D2A30947000DD1A2D /* UniqueView.swift */,
+				FEFC717F2A30948500DD1A2D /* RandomSampleView.swift */,
 			);
 			path = SwiftAlgorithmsExamples;
 			sourceTree = "<group>";
@@ -165,6 +171,8 @@
 				BFFE766A268C90A90074DCC9 /* PermutationsView.swift in Sources */,
 				BFFE766E268C93B00074DCC9 /* RotateToStartAtView.swift in Sources */,
 				BF51F003268A4A12002B53F9 /* SwiftAlgorithmsExampleApp.swift in Sources */,
+				FEFC717E2A30947000DD1A2D /* UniqueView.swift in Sources */,
+				FEFC71802A30948500DD1A2D /* RandomSampleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
